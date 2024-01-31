@@ -11,6 +11,10 @@ Currently, two official plugins are available:
 
 Welcome to the Weather Application! This application provides weather information using HTML, CSS, JavaScript, and React with Vite.
 
+## Live Demo
+
+Explore the live demo of the Weather Application: [Weather App](https://weather-app-06db10.netlify.app)
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your machine:
